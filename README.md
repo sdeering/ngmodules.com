@@ -1,6 +1,6 @@
 # ngmodules.com
 
-Repo for ngmodules.com
+Repo for [https://ngmodules.com](ngmodules.com)
 
 Please add your feedback and suggestions for the website to the [issues on this repo](https://github.com/sdeering/ngmodules.com/issues).
 
